@@ -1,0 +1,17 @@
+{
+    "name": "glibc",
+    "package": "glibc",
+    "index": "./libc/index.html",
+    "selectors": {
+        "title": "Category",
+        "h4.subsection": "Section",
+        "h3.section": "Section",
+        "dt strong": "Function"
+    },
+    "ignore": [
+        "ABOUT"
+    ],
+    "icon32x32": "gnu-head-32.png",
+    "allowJS": false,
+    "ExternalURL": "https://www.gnu.org/software/libc/"
+}
